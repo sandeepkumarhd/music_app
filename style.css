@@ -1,0 +1,203 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.icon{
+    height: 20px;
+    width: 30px;
+    margin: 22px 10px;
+}
+.menu{
+    height: 30px;
+    width: 40px;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+    width: 5%;
+}
+.first_image{
+    background-color: rgb(77, 83, 83);
+    position: absolute;
+    top: 0;
+    width: 95%;
+    left: 70px;
+    height: 280px;
+    display: flex;
+    color: aliceblue;
+    
+}
+.first_img{
+    height: 200px;
+    width: 250px;
+    padding: 40px;
+}
+.content{
+    /* display: flex; */
+    padding: 30px 20px;
+
+}
+.maincontent{
+    font-size: 35px;
+    padding: 3px;
+}
+.secondcontent{
+    font-size: 21px;
+    padding: 5px;
+}
+.thirdcontent{
+    font-size: 21px;
+    padding: 0 3px;
+
+}
+.paly_button{
+    height: 15px;
+    width: 15px;
+    color: aliceblue;
+    border-radius: 50px;
+    
+    
+    
+}
+.plus_button{
+    height: 10px;
+    width: 10px;
+    margin-left: 30px;
+}
+.play_thing{
+    display: flex;
+    
+}
+.add{
+    margin-top: 85px;
+    margin-left: 10px;
+}
+.playbutton{
+    margin-top: 85px;
+    margin-left: 200x;
+    color: aliceblue;
+}
+.more{
+    margin-top: 85px;
+    margin-left: 35px;
+    color: aliceblue;
+}
+.middle{
+    /* display: flex; */
+    position: absolute;
+    top: 280px;
+    left: 70px;
+    height: 220px;
+    width: 95%;
+}
+.cantstop{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 15px;
+    font-size: 20px;
+}
+.work{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 15px;
+    background-color: #ecece6;
+    font-size: 20px;
+}
+.play{
+    display: flex;
+    justify-content: space-between;
+    background-color: #3d649f;
+    height: 199px;
+    align-items: center;
+    margin-top: 60px;
+    
+}
+.backbutton{
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+}
+.playbutton1{
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+}
+.stopbutton{
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+}
+.nextbutton{
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+}
+.repeatebutton{
+    height: 30px;
+    width: 30px;
+    /* margin-right: 30px; */
+    border-radius: 20px;
+}
+.repeatebutton2{
+    height: 30px;
+    width: 30px;
+    margin-right: 50px;
+    border-radius: 5px;
+}
+.image4{
+    height: 140px;
+    width: 140px;
+    margin-left: 7px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+.frist_table{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.one{
+    /* margin-top: 50px; */
+    /* padding: 25px; */
+    padding-top: 20px;
+    padding-left: 60px;
+    padding-bottom: 10px;
+    font-size: 22px;
+    width: 200px;
+   
+}
+.crake{
+    padding: 0 200px;
+    font-size: 22px;
+    width: 300px;
+    /* background-color: aqua; */
+    
+}
+.time{
+    padding: 0 150px;
+    font-size: 22px;
+    width: 0px;
+   
+}
+.border{
+    padding: 1 200px;
+    font-size: 22px;
+    
+}
+
+.b2,.b2,.b2,.b2{
+    background-color: #ecece6;
+}
+.d4,.d4,.d4,.d4{
+    background-color: #ecece6;
+}
+.border {
+    border: 3px solid black;
+}
